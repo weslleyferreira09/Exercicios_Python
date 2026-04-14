@@ -5,6 +5,6 @@ while n1 < 1 :
     print(numero)
 
     if numero == 0:
-        print("Saindo do loop!!!")
+        print("Saindo do loop!")
         break
 

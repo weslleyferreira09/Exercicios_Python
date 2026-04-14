@@ -2,6 +2,6 @@ numero = 10
 
 while numero < 51:
     print(numero)
-    numero += 1
+    numero = numero + 1
 
 
