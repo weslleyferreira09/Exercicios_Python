@@ -9,6 +9,6 @@ while contador > 0:
     contador -= 1
 
 if divisoes == 2:
-    print(f'{numero} É primo!')
+    print(f'{numero} É primo!!!')
 else:
-    print(f'{numero} Não é primo!')
+    print(f'{numero} Não é primo!!!')

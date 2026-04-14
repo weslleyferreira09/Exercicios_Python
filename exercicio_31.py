@@ -6,6 +6,6 @@ atual = x
 while atual <= y:
     if atual % 2 == 0:
         print(f"{atual} E par!")
-    atual += 1
+    atual = atual + 1
     
 
